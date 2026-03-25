@@ -6,7 +6,7 @@ A clean and responsive dashboard built using React, Vite, and Tailwind CSS.
 
 ## 🚀 Preview
 
-![Project Preview](./screenshots/project-preview.png)
+![Project Preview](./src/assets/preview.png)
 
 ---
 
@@ -14,7 +14,7 @@ A clean and responsive dashboard built using React, Vite, and Tailwind CSS.
 
 * Modern responsive dashboard layout
 * Built with reusable React components
-* Styled بالكامل باستخدام Tailwind CSS
+* Styled Tailwind CSS
 * Simple and clean user interface
 
 ---
@@ -66,7 +66,7 @@ A clean and responsive dashboard built using React, Vite, and Tailwind CSS.
 
 ## 📸 Screenshot
 
-![Dashboard Screenshot](./screenshots/project-preview.png)
+![Dashboard Screenshot](./src/assets/preview.png)
 
 ---
 
