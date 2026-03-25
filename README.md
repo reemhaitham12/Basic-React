@@ -1,12 +1,84 @@
-# React + Vite
+# React Dashboard UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive dashboard built using React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Preview
 
-## Expanding the ESLint configuration
+![Project Preview](./screenshots/project-preview.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Overview
+
+* Modern responsive dashboard layout
+* Built with reusable React components
+* Styled بالكامل باستخدام Tailwind CSS
+* Simple and clean user interface
+
+---
+
+## ✨ Features
+
+* Profile card component with status indicator
+* Alert notification component
+* Summary panel section
+* Active account list with filtering
+* Product catalog with stock status
+* Responsive grid layout
+* Hover animations and UI interactions
+
+---
+
+## 🛠️ Technologies
+
+* React
+* Vite
+* Tailwind CSS
+* JavaScript (ES6+)
+
+---
+
+## 📂 Project Structure
+
+* src/Components/Alert.jsx
+* src/Components/Card.jsx
+* src/Components/Panel.jsx
+* src/Components/ProductCatalog.jsx
+* src/Components/ProfileCard.jsx
+* src/Components/UserList.jsx
+* src/App.jsx
+* src/main.jsx
+* src/index.css
+
+---
+
+## ⚙️ Installation
+
+* Install dependencies:
+  npm install
+
+* Run the project:
+  npm run dev
+
+---
+
+## 📸 Screenshot
+
+![Dashboard Screenshot](./screenshots/project-preview.png)
+
+---
+
+## 🎯 Purpose
+
+* Practice React component structure
+* Work with props and conditional rendering
+* Build reusable UI components
+* Apply modern styling using Tailwind CSS
+
+---
+
+## 👩‍💻 Author
+
+Reem Haitham
