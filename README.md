@@ -64,11 +64,6 @@ A clean and responsive dashboard built using React, Vite, and Tailwind CSS.
 
 ---
 
-## 📸 Screenshot
-
-![Dashboard Screenshot](./src/assets/preview.png)
-
----
 
 ## 🎯 Purpose
 
